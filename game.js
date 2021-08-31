@@ -78,3 +78,6 @@ function startOver() {
     gamePattern = [];
     started = false;
 }
+
+/* Github auth token: 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
+*/ 
